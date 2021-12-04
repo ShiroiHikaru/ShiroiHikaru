@@ -45,9 +45,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=FIGMA&logoColor=ffffff"/>
 </div>
 
-<h3>PORTFOLIO Renewal Motive</h3>
-    <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat&logo=Samsung&logoColor=ffffff"/>
 
-
-
+<!-- 스테이터스 -->
 ![ShiroiHikaru's github stats](https://github-readme-stats.vercel.app/api?username=ShiroiHikaru&show_icons=true)  ![ShiroiHikaru's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroiHikaru&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+
+<!-- 힛 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShiroiHikaru&count_bg=%23141414&title_bg=%23A88DFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
