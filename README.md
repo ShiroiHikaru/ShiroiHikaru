@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <!-- 캡슐랜더 시작 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=ffffff&height=300&section=header&text=SHIROI%20HIKARU&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=ffffff&height=300&section=header&text=SHIROI%20HIKARU&fontSize=90&animation=fadeIn" />
 
 
 <!-- 스킬캡션 -->
