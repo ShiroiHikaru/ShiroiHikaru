@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ShiroiHikaru/ShiroiHikaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://capsule-render.vercel.app/api?
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=ffffff&height=300&section=header&text=SHIROI%20HIKARU&fontSize=90" />
 
 
 ![ShiroiHikaru's github stats](https://github-readme-stats.vercel.app/api?username=ShiroiHikaru&show_icons=true)![ShiroiHikaru's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroiHikaru&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
