@@ -49,5 +49,3 @@ Here are some ideas to get you started:
 <!-- 스테이터스 -->
 ![ShiroiHikaru's github stats](https://github-readme-stats.vercel.app/api?username=ShiroiHikaru&show_icons=true)  ![ShiroiHikaru's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroiHikaru&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
-<!-- 힛 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShiroiHikaru&count_bg=%23141414&title_bg=%23A88DFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
