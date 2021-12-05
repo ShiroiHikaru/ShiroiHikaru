@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <h3>🎨Skill🎨</h3>
+  <h3>🎨Design🎨</h3>
     <img src="https://img.shields.io/badge/Adobe Creative Cloud-EC1C24?style=flat&logo=Adobe Creative Cloud&logoColor=ffffff"/>  
     <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=ffffff"/>  
     <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=ffffff"/>
