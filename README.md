@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- 스킬캡션 -->
 <div>
-  <h3>🖥Skills🖥</h3>
+  <h3>🖥Study Skills🖥</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/> 
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=JAVASCRIPT&logoColor=141414"/>  
