@@ -30,9 +30,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat&logo=JQUERY&logoColor=ffffff"/> 
     <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=GitHub&logoColor=181717"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=ffffff"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff"/>
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=ffffff"/>
-    <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/XAMPP-ffffff?style=flat&logo=XAMPP&logoColor=FB7A24"/>  
 </div>
 
