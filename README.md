@@ -28,9 +28,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/> 
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=JAVASCRIPT&logoColor=141414"/>  
     <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat&logo=JQUERY&logoColor=ffffff"/> 
-    <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=GitHub&logoColor=181717"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=ffffff"/>
-    <img src="https://img.shields.io/badge/XAMPP-ffffff?style=flat&logo=XAMPP&logoColor=FB7A24"/>  
+    <img src="https://img.shields.io/badge/XAMPP-ffffff?style=flat&logo=XAMPP&logoColor=FB7A24"/>
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=GitHub&logoColor=181717"/>
 </div>
 
 <div>
@@ -40,6 +40,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=Adobe XD&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=FIGMA&logoColor=ffffff"/>
+</div>
+
+
+<div>
+  <h3>🎏LIFE</h3>
 </div>
 
 
