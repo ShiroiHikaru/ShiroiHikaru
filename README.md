@@ -30,6 +30,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat&logo=JQUERY&logoColor=ffffff"/> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/XAMPP-ffffff?style=flat&logo=XAMPP&logoColor=FB7A24"/>
+  
+  <h3>자바스크립트를 어려워하고 있어요..ㅠㅠ</
 </div>
 
 <div>
