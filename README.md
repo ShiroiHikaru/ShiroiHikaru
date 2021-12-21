@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 
 
   <div>
-     <h3>🎏INTRO</h3>
+     <h3>📌INTRO📌</h3>
         나만 자바스크립트 어렵나...자바스크립트를 어려워하고 있어요..ㅠㅠ
-        display:flex 만세!
+        CSS는...display:flex 만세! 포트폴리오 새로운 시안 재 준비중.
 </div>
 
