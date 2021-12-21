@@ -30,9 +30,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat&logo=JQUERY&logoColor=ffffff"/> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/XAMPP-ffffff?style=flat&logo=XAMPP&logoColor=FB7A24"/>
-  
-    자바스크립트를 어려워하고 있어요..ㅠㅠ
-    display:flex 만세!
 </div>
 
 <div>
@@ -46,10 +43,19 @@ Here are some ideas to get you started:
 
 
 <div>
-  <h3>🎏LIFE</h3>
+  <h3>🎏LIFE🎏</h3>
 </div>
 
 
 <!-- 스테이터스 -->
 ![ShiroiHikaru's github stats](https://github-readme-stats.vercel.app/api?username=ShiroiHikaru&show_icons=true)  ![ShiroiHikaru's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroiHikaru&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+
+
+
+
+  <div>
+     <h3>🎏INTRO</h3>
+        나만 자바스크립트 어렵나...자바스크립트를 어려워하고 있어요..ㅠㅠ
+        display:flex 만세!
+</div>
 
