@@ -58,5 +58,7 @@ Here are some ideas to get you started:
         CSS는...display:flex 만세!<br>
         깃허브도 클라우드처럼 쓰는 여자...<br>
         현재 React.js와 build랑 싸우고 있습니다.
+        회사에서는 퍼블리셔와..JQuery와....JSON과...얼레벌레 그냥 싸우는 중...<br>
+        그래도 아예 못해보는것 보단...어디야..그래..
 </div>
 
