@@ -23,35 +23,13 @@ Here are some ideas to get you started:
 
 <!-- 스킬캡션 -->
 
-
-<div>
-  <h3>🎨Design🎨</h3>
-    <img src="https://img.shields.io/badge/Adobe Creative Cloud-EC1C24?style=flat&logo=Adobe Creative Cloud&logoColor=ffffff"/>  
-    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=ffffff"/>  
-    <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=ffffff"/>
-    <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=Adobe XD&logoColor=ffffff"/>
-    <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=FIGMA&logoColor=ffffff"/>
-</div>
+### Links
+[notion][https://www.notion.so/shiroihikaru/Shiroi_Hikaru-Blog-1dfa4e7fcc8f80bb8f68e75469f66e29?source=copy_link]
+[youtube][https://www.youtube.com/@ShiroiHikaru]
+[Linkedin][https://www.linkedin.com/in/heeyeon-baek-105465394/]
 
 
-<div>
-  <h3>🎏LIFE🎏</h3>
-</div>
-
-
-<!-- 스테이터스 -->
-![ShiroiHikaru's github stats](https://github-readme-stats.vercel.app/api?username=ShiroiHikaru&show_icons=true)  ![ShiroiHikaru's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroiHikaru&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
-
-
-
-
-  <div>
-     <h3>📌INTRO📌</h3>
-        나만 자바스크립트 어렵나...자바스크립트를 어려워하고 있어요..ㅠㅠ<br>
-        CSS는...display:flex 만세!<br>
-        깃허브도 클라우드처럼 쓰는 여자...<br>
-        현재 React.js와 build랑 싸우고 있습니다.
-        회사에서는 퍼블리셔와..JQuery와....JSON과...얼레벌레 그냥 싸우는 중...<br>
-        그래도 아예 못해보는것 보단...어디야..그래..
-</div>
-
+### 📌INTRO📌
+- 디자이너이자 개발자로 일하고 싶은 디발자 희망자
+- 이곳은 개인 Github입니다. [부트캠프 Github][https://github.com/HeeYeonBaek]
+- HTML, CSS, JAVASCRIPT, TypeScript, React, Next.js
