@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 <!-- 스킬캡션 -->
 
 ### Links
-[notion][https://www.notion.so/shiroihikaru/Shiroi_Hikaru-Blog-1dfa4e7fcc8f80bb8f68e75469f66e29?source=copy_link]
-[youtube][https://www.youtube.com/@ShiroiHikaru]
-[Linkedin][https://www.linkedin.com/in/heeyeon-baek-105465394/]
-
+[notion](https://www.notion.so/shiroihikaru/Shiroi_Hikaru-Blog-1dfa4e7fcc8f80bb8f68e75469f66e29?source=copy_link)
+[youtube](https://www.youtube.com/@ShiroiHikaru)
+[Linkedin](https://www.linkedin.com/in/heeyeon-baek-105465394/)
+[부트캠프 Github](https://github.com/HeeYeonBaek)
 
 ### 📌INTRO📌
 - 디자이너이자 개발자로 일하고 싶은 디발자 희망자
-- 이곳은 개인 Github입니다. [부트캠프 Github][https://github.com/HeeYeonBaek]
+- 이곳은 개인 Github입니다. 
 - HTML, CSS, JAVASCRIPT, TypeScript, React, Next.js
